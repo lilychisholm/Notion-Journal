@@ -5,7 +5,7 @@ I made a little journal for Notion! Not complete yet, I want to add more customi
 Overall it's pretty simple! 
 
 ### What do I download?
-You have to download the file. Just download the file with all of the code, "Lavindex-Notion-Journal-App". Don't worry about all of the other pages. 
+Just download the file with all of the code, "Lavindex-Notion-Journal-App". Don't worry about all of the other pages. 
 ### How do I set it up?
 Just click the "+" button beside a new component in Notion, and then scroll until you see something that says, "Embed". Just click that, and then you can click "Upload", then "Choose a File." Pick the file "Lavindex-Notion-Journal-App.html." The journal should then appear! It might take a few seconds to upload. You can size it however you like (thought you might have to fiddle around with its placement and columns in Notion and such in order to get it to look exactly how you want).
 
